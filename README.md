@@ -56,4 +56,4 @@ Visual Studio Code (VS Code) – Development environment
 
 #OUTPUT:
 
-<img width="2837" height="1516" alt="Image" src="https://github.com/user-attachments/assets/9ad2f685-b6b2-4ac3-995c-5c8847b1bb7a" />
+<img width="2837" height="1332" alt="Image" src="https://github.com/user-attachments/assets/c1a5a5d2-1215-479e-bf89-49f5823bfafa" />
